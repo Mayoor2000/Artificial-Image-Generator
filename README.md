@@ -1,9 +1,5 @@
 # Generate-Synthetic-Images-with-DCGANs-in-Keras
 
-## Blog
-
-[Medium Blog](https://baotramduong.medium.com/generate-synthetic-images-with-deep-convolutional-generative-adversarial-network-dcgan-424528b3477b)
-
 ## Introduction
 
 We will be using the Keras Sequential API with Tensorflow 2 as the backend to build and train a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images of fashionable clothes.
